@@ -7,7 +7,7 @@ Các công nghệ sử dụng:
 + Làm việc và thao tác với file để đọc và ghi dữ liệu (vì thầy giáo không yêu cầu sử dụng đến SQL nên nhóm không kết nối JDBC)
 
 Libraries package:
-+ JDK 19
++ JDK 25
 + jcalendar-1.4.jar
 
 Các chức năng chính:
